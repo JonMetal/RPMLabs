@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfItEquipment.Windows.AuthorizationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfItEquipment.Windows"
+        mc:Ignorable="d"
+        Title="AuthorizationWindow" Height="250" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" Orientation="Vertical" VerticalAlignment="Top" Margin="0,10,0,0" Width="380">
+            <Label Content="Login"/>
+            <TextBox x:Name="LoginTextBox" TextWrapping="Wrap" Text="" Width="380" HorizontalAlignment="Left"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" Orientation="Vertical" VerticalAlignment="Top" Margin="0,59,0,0" Width="380">
+            <Label Content="Password"/>
+            <TextBox x:Name="PasswordTextBox" TextWrapping="Wrap" Text="" Width="380" HorizontalAlignment="Left"/>
+
+        </StackPanel>
+        <Button x:Name="JoinButton" Content="Join" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top" Height="40" Width="120" Click="JoinButton_Click"/>
+        <Button x:Name="ExitButton" Content="Exit" HorizontalAlignment="Right" Margin="0,117,10,0" VerticalAlignment="Top" Height="40" Width="120"/>
+
+    </Grid>
+</Window>
