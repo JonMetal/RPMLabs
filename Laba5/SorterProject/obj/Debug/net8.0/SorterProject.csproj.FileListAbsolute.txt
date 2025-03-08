@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Laba5\SorterProject\bin\Debug\net8.0\SorterProject.exe
+C:\Users\anton\source\repos\Laba5\SorterProject\bin\Debug\net8.0\SorterProject.deps.json
+C:\Users\anton\source\repos\Laba5\SorterProject\bin\Debug\net8.0\SorterProject.runtimeconfig.json
+C:\Users\anton\source\repos\Laba5\SorterProject\bin\Debug\net8.0\SorterProject.dll
+C:\Users\anton\source\repos\Laba5\SorterProject\bin\Debug\net8.0\SorterProject.pdb
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.AssemblyInfo.cs
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.dll
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\refint\SorterProject.dll
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.pdb
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\SorterProject.genruntimeconfig.cache
+C:\Users\anton\source\repos\Laba5\SorterProject\obj\Debug\net8.0\ref\SorterProject.dll

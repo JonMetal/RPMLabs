@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "TestSorter\\TestSorter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SorterProject\\SorterProject.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
