@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\WpfItEquipment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\utils\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\utils\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\utils\\singletonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\utils\\singletonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\utils\\databaseconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\utils\\databaseconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\equipmentform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\equipmentform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\editequipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\editequipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\editequipment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\editequipment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\addequipment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\addequipment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\addequipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\addequipment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\clientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\clientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\models\\processrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\models\\processrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\clientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\clientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|c:\\users\\anton\\source\\wpfitequipment\\wpfitequipment\\windows\\equipmentform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1D5166D-16DF-40C7-8FDD-6AC94CE0A36B}|WpfItEquipment\\WpfItEquipment.csproj|solutionrelative:wpfitequipment\\windows\\equipmentform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\RegistrationWindow.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T04:10:37.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingleTonStorage.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\SingleTonStorage.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\UTILS\\SingleTonStorage.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\SingleTonStorage.cs",
+              "RelativeToolTip": "WpfItEquipment\\UTILS\\SingleTonStorage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:47:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\Storage.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\UTILS\\Storage.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\Storage.cs",
+              "RelativeToolTip": "WpfItEquipment\\UTILS\\Storage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:37:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:30:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T03:18:47.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseConstants.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\DataBaseConstants.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\UTILS\\DataBaseConstants.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\UTILS\\DataBaseConstants.cs",
+              "RelativeToolTip": "WpfItEquipment\\UTILS\\DataBaseConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:29:53.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:14:19.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\ClientForm.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\ClientForm.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\ClientForm.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\ClientForm.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:33:40.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientForm.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\ClientForm.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\ClientForm.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\ClientForm.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\ClientForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T04:28:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditEquipment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EditEquipment.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\EditEquipment.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EditEquipment.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\EditEquipment.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvyAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:12:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditEquipment.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EditEquipment.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\EditEquipment.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EditEquipment.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\EditEquipment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T04:09:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEquipment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AddEquipment.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\AddEquipment.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AddEquipment.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\AddEquipment.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIBJwCIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:26:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEquipment.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AddEquipment.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\AddEquipment.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\AddEquipment.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\AddEquipment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T03:19:41.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EquipmentForm.xaml.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\EquipmentForm.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EquipmentForm.xaml.cs",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\EquipmentForm.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:24:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquipmentForm.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EquipmentForm.xaml",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Windows\\EquipmentForm.xaml",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Windows\\EquipmentForm.xaml",
+              "RelativeToolTip": "WpfItEquipment\\Windows\\EquipmentForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T03:18:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\User.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Request.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\Request.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:36.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProcessRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\ProcessRequest.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\ProcessRequest.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\ProcessRequest.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\ProcessRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:35.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Equipment.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:34.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Engineer.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\Engineer.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Engineer.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "WpfItEquipment\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\WpfItEquipment\\WpfItEquipment\\Models\\Client.cs",
+              "RelativeToolTip": "WpfItEquipment\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:19:32.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
