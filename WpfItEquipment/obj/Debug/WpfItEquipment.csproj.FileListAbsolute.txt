@@ -1,7 +1,0 @@
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\WpfItEquipment.csproj.AssemblyReference.cache
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\Windows\AuthorizationWindow.g.cs
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\App.g.cs
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\WpfItEquipment_MarkupCompile.cache
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\WpfItEquipment_MarkupCompile.lref
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\Windows\AddEquipment.g.cs
-C:\Users\anton\source\repos\WpfItEquipment\WpfItEquipment\obj\Debug\Windows\EquipmentForm.g.cs
